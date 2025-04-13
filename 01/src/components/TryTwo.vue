@@ -49,7 +49,7 @@ const putMessage = async (event) => {
 
 <style scoped>
 .form-wrap {
-  width: 100%;
+  width: 50%;
 }
 /* 欄位容器＝我的定位基準 */
 .form-field {
